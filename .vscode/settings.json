@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cmd /c scripts\\\\run_streamlit\\.cmd$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
